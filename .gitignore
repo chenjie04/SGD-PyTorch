@@ -1,0 +1,8 @@
+.dist_test/
+checkpoints/
+data/
+tmp/
+work_dirs/
+work_dirs_out_of_date/
+unit_testing.py
+*.pyc
